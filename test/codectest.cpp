@@ -1,5 +1,5 @@
-#include "codec.hpp"
-#include "packet.hpp"
+#include "common/codec.hpp"
+#include "common/packet.hpp"
 #include "unittestcore.hpp"
 
 TEST_CASE(Codec_Init) {

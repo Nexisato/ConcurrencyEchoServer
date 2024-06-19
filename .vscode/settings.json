@@ -1,0 +1,8 @@
+{
+    "clangd.fallbackFlags": [
+        "-I/${workspaceFolder}/common/",
+        "-I/${workspaceFolder}/"
+    ],
+    "editor.tabSize": 2,
+    "ros.distro": "humble"
+}
